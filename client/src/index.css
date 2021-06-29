@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@100;200;300;400;500;700;800;900&family=Catamaran:wght@100;200;300;400;500;600;700;800;900&family=Hind+Madurai:wght@300;400;500;600;700&family=Kavivanar&family=Pavanam&family=Roboto:wght@100;300;400;500&display=swap');
+
+:root{
+    --bg-color:#e8eaee;
+}
+* {
+    margin: 0;
+  }
+
+  body {
+    font-family: 'Kavivanar', cursive;
+    background: var(--bg-color);
+  }
+
+  .link {
+    text-decoration: none;
+    color: inherit;
+  }
